@@ -1,0 +1,16 @@
+ID,Location,Magnitude,Event_Time,Event_Type,Is_Tsunami,Longitude,Latitude,Depth
+"usauto7000kflx,us7000kflx","Bonin Islands, Japan region",5.3,2023-07-14 02:01:50.137000,earthquake,0,143.2531,28.6474,10
+us7000kfhs,,5.2,2023-07-13 15:52:08.911000,earthquake,0,138.678,29.8976,437.258
+us7000kfg6,"5 km SSE of Kitahama, Japan",4.4,2023-07-13 14:40:59.074000,earthquake,0,135.9505,35.1247,344.679
+us7000kfg1,,4.7,2023-07-13 14:10:40.193000,earthquake,0,141.7801,32.7294,10
+us7000kfdj,"84 km NNE of Yonakuni, Japan",4.4,2023-07-13 10:07:43.646000,earthquake,0,123.2937,25.1828,157.61
+us7000kfcf,Mariana Islands region,4.3,2023-07-13 06:41:46.879000,earthquake,0,143.2318,21.5093,320.497
+us7000kfbs,"80 km E of Noda, Japan",5,2023-07-13 04:43:54.604000,earthquake,0,142.7577,40.0803,35
+us6000krb0,"24 km ESE of Iwaki, Japan",4.3,2023-07-10 12:25:47.470000,earthquake,0,141.1363,36.9715,74.452
+us6000kra8,"Volcano Islands, Japan region",4.6,2023-07-10 08:14:22.171000,earthquake,0,142.7607,24.0223,35
+us6000kr8w,"11 km SSE of Asahi, Japan",4.6,2023-07-10 01:40:51.995000,earthquake,0,140.7052,35.6282,55.392
+us6000kr76,"2 km N of Narutō, Japan",4.6,2023-07-09 19:52:22.336000,earthquake,0,140.4151,35.625,58.794
+us6000kr6t,"Volcano Islands, Japan region",4.7,2023-07-09 19:32:31.341000,earthquake,0,142.9238,24.0215,10
+us6000kr69,"Volcano Islands, Japan region",5.1,2023-07-09 18:49:14.289000,earthquake,0,143.0301,24.0889,10
+"pt23190000,us6000kr3t","Volcano Islands, Japan region",5.3,2023-07-09 13:38:36.375000,earthquake,0,143.2032,24.0074,10
+us6000kr3e,"27 km SE of Shinmachi, Japan",4.4,2023-07-09 11:44:02.077000,earthquake,0,140.5887,35.03,57.634

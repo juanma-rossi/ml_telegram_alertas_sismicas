@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+joblib
+pycaret
+datetime
+beautifulsoup4
